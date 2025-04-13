@@ -1,0 +1,4 @@
+# Arquivo CODEOWNERS
+# Isso define que apenas @rogerioperesgomes pode aprovar pull requests para qualquer arquivo no repositório
+
+* @rogerioperesgomes
